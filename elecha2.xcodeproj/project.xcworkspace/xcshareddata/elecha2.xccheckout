@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>9283B032-2BED-44EE-8218-17ACB8121945</string>
+	<key>IDESourceControlProjectName</key>
+	<string>elecha2</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>B2C3D0CF937682BA59DEEF9CD3D346B2A920E418</key>
+		<string>https://github.com/ozanasan/elecha2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>elecha2.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>B2C3D0CF937682BA59DEEF9CD3D346B2A920E418</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ozanasan/elecha2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>B2C3D0CF937682BA59DEEF9CD3D346B2A920E418</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>B2C3D0CF937682BA59DEEF9CD3D346B2A920E418</string>
+			<key>IDESourceControlWCCName</key>
+			<string>elecha2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

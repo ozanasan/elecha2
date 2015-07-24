@@ -13,6 +13,7 @@
 		D3668ACD1B61FAC80021B4DD /* question4.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3668ACC1B61FAC80021B4DD /* question4.swift */; };
 		D3668ACF1B620CA90021B4DD /* question5.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3668ACE1B620CA90021B4DD /* question5.swift */; };
 		D3668AD11B6212620021B4DD /* question6.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3668AD01B6212620021B4DD /* question6.swift */; };
+		D3668AD31B62C8270021B4DD /* question7.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3668AD21B62C8270021B4DD /* question7.swift */; };
 		D3F4F73C1B5E12F300A8A95D /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3F4F73B1B5E12F300A8A95D /* main.swift */; };
 		D3F4F7431B5E130100A8A95D /* question1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D3F4F7421B5E130100A8A95D /* question1.swift */; };
 /* End PBXBuildFile section */
@@ -36,6 +37,7 @@
 		D3668ACC1B61FAC80021B4DD /* question4.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = question4.swift; sourceTree = "<group>"; };
 		D3668ACE1B620CA90021B4DD /* question5.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = question5.swift; sourceTree = "<group>"; };
 		D3668AD01B6212620021B4DD /* question6.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = question6.swift; sourceTree = "<group>"; };
+		D3668AD21B62C8270021B4DD /* question7.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = question7.swift; sourceTree = "<group>"; };
 		D3F4F7381B5E12F300A8A95D /* elecha2 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = elecha2; sourceTree = BUILT_PRODUCTS_DIR; };
 		D3F4F73B1B5E12F300A8A95D /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D3F4F7421B5E130100A8A95D /* question1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = question1.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				D3668ACC1B61FAC80021B4DD /* question4.swift */,
 				D3668ACE1B620CA90021B4DD /* question5.swift */,
 				D3668AD01B6212620021B4DD /* question6.swift */,
+				D3668AD21B62C8270021B4DD /* question7.swift */,
 			);
 			path = elecha2;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 				D3668ACD1B61FAC80021B4DD /* question4.swift in Sources */,
 				D3668ACB1B5F594C0021B4DD /* question3.swift in Sources */,
 				D3668AC91B5F4BBB0021B4DD /* question2.swift in Sources */,
+				D3668AD31B62C8270021B4DD /* question7.swift in Sources */,
 				D3668AC71B5F18FA0021B4DD /* quicksortpartition.swift in Sources */,
 				D3F4F73C1B5E12F300A8A95D /* main.swift in Sources */,
 				D3668ACF1B620CA90021B4DD /* question5.swift in Sources */,

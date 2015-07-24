@@ -88,3 +88,20 @@ for var index = 0; index < unique.count; index++ {
     }
 }
 print("]")
+
+//question seven
+println()
+println("--Question Seven--")
+
+var StockPrices = [100, 130, 110, 170, 80, 90, 80, 110, 120, 110, 70, 80]
+var profit = findMaxProfit(StockPrices)
+println(profit)
+
+var StockPrices2 = [50, 60, 80, 90, 110, 150, 300]
+var profit2 = findMaxProfit(StockPrices2)
+println(profit2)
+
+var StockPrices3 = [40, 30, 60, 55, 65, 45, 35, 57, 42, 35, 42, 43, 38]
+var profit3 = findMaxProfit(StockPrices3)
+println(profit3)
+
